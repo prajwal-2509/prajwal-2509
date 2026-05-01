@@ -52,10 +52,9 @@ Focused on building **real systems** and understanding how things work internall
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal-2509&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prajwal-2509&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-2509&layout=compact&theme=tokyonight&cache_seconds=1800)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prajwal-2509&layout=compact&theme=tokyonight)
 ---
 
 ## 📈 Coding Practice
