@@ -1,14 +1,10 @@
 # 👋 Prajwal Hulle
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prajwal-2509&label=Views&color=555&style=flat" />
-</p>
+![](https://komarev.com/ghpvc/?username=prajwal-2509&label=Profile%20Views&color=0e75b6&style=flat)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/prajwal-hulle-b726a5357">LinkedIn</a> •
-  <a href="https://www.hackerrank.com/profile/prajwalashokhul1">HackerRank</a> •
-  <a href="https://www.instagram.com/_prjwal25/">Instagram</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prajwal-hulle-b726a5357)
+[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/prajwalashokhul1)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram)](https://www.instagram.com/_prjwal25/)
 
 ## 👨‍💻 About Me
 
