@@ -11,7 +11,7 @@ Diploma graduate in Computer Technology from Government Polytechnic Solapur. I b
 **Aegis-Q** — A zero-trust, quantum-safe security vault built at a hackathon. Uses an AI ensemble (BART + Gemini) to classify document sensitivity, applies ML-KEM (Kyber) post-quantum encryption for high-risk files, fragments encrypted data across IPFS via Pinata, and anchors file hashes on-chain via a Solidity smart contract for a tamper-proof audit trail.
 `Python · Gemini API · ML-KEM (Kyber) · IPFS · Solidity · Blockchain`
 
-**Quantum Error Correction Simulator** — Browser-based interactive simulator for quantum error correction concepts. Encodes a logical qubit into a 3-qubit repetition code, supports X/Y/Z error injection, renders Bloch spheres in real time, detects errors via syndrome measurement, and restores fidelity to 100%. No frameworks, no dependencies — pure web tech.
+**Quantum Error Correction Simulator** — It is Browser-based interactive simulator for quantum error correction concepts. Encodes a logical qubit into a 3-qubit repetition code, supports X/Y/Z error injection, renders Bloch spheres in real time, detects errors via syndrome measurement, and restores fidelity to 100%. No frameworks, no dependencies — pure web tech.
 `HTML · CSS · Vanilla JavaScript · SVG · Vercel`
 
 **Railway Internship — B-Form Workflow Automation** — Built Google Apps Script automation during Indian Railways internship to process Excel-based operational records. Dynamically distributed data into route-wise sheets, separated incoming/outgoing train records, and automated multi-sheet categorization — cutting significant manual effort from daily operational workflows.
