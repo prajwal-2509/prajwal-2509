@@ -6,7 +6,7 @@ Diploma graduate in Computer Technology from Government Polytechnic Solapur. I b
 
 ---
 
-## What I've Built
+## Done Hands-On Projets
 
 **Aegis-Q** — A zero-trust, quantum-safe security vault built at a hackathon. Uses an AI ensemble (BART + Gemini) to classify document sensitivity, applies ML-KEM (Kyber) post-quantum encryption for high-risk files, fragments encrypted data across IPFS via Pinata, and anchors file hashes on-chain via a Solidity smart contract for a tamper-proof audit trail.
 `Python · Gemini API · ML-KEM (Kyber) · IPFS · Solidity · Blockchain`
