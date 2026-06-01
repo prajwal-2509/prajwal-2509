@@ -6,9 +6,6 @@ Diploma graduate in Computer Technology from Government Polytechnic Solapur. I b
 
 ---
 
-
----
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prajwal-2509&show_icons=true&theme=tokyonight)
