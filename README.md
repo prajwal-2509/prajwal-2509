@@ -6,7 +6,7 @@
 
 **Diploma graduate in Computer Technology, Government Polytechnic Solapur.**
 
-[LinkedIn][linkedin] / [HackerRank][hackerrank] / [Email][email] / [Instagram][instagram]
+💼 [LinkedIn][linkedin] · 🧠 [HackerRank][hackerrank] · 📧 [Email][email] · 📸 [Instagram][instagram]
 
 I build systems that solve real problems — not projects that sit in a repo and
 collect dust. Model output, code, or a finished feature is only ever the last
@@ -33,9 +33,8 @@ shipping only what's actually been tested.
 
 ## Connect
 
-## Connect
-
 💼 [LinkedIn](https://www.linkedin.com/in/prajwal-hulle-b726a5357) · 🧠 [HackerRank](https://www.hackerrank.com/profile/prajwalashokhul1) · 📧 [Email](mailto:prajwalashokhulle@gmail.com) · 📸 [Instagram](https://www.instagram.com/_prjwal25/)
+
 ## GitHub footprint
 
 <div align="center">
