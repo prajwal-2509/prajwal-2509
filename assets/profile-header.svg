@@ -1,0 +1,59 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .card { fill: #0f1420; stroke: #1f2733; stroke-width: 1; }
+      .titlebar { fill: #161b22; }
+      .dot-red { fill: #ff5f56; }
+      .dot-yellow { fill: #ffbd2e; }
+      .dot-green { fill: #27c93f; }
+      .prompt { fill: #7dd3fc; font-family: 'Courier New', monospace; font-size: 14px; }
+      .name { fill: #f0f6fc; font-family: 'Segoe UI', Arial, sans-serif; font-size: 34px; font-weight: 700; }
+      .role { fill: #8b5cf6; font-family: 'Courier New', monospace; font-size: 13px; letter-spacing: 2px; }
+      .tag { fill: #8b949e; font-family: 'Segoe UI', Arial, sans-serif; font-size: 15px; }
+      .label { fill: #58a6ff; font-family: 'Courier New', monospace; font-size: 11px; letter-spacing: 2px; }
+      .chip { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+      .chip-text { fill: #c9d1d9; font-family: 'Courier New', monospace; font-size: 12px; }
+      .status { fill: #3fb950; font-family: 'Courier New', monospace; font-size: 12px; letter-spacing: 1px; }
+      .cursor { fill: #7dd3fc; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="260" rx="0"/>
+  <rect class="card" x="10" y="10" width="880" height="240" rx="10"/>
+
+  <!-- title bar -->
+  <rect class="titlebar" x="10" y="10" width="880" height="34" rx="10"/>
+  <circle class="dot-red" cx="30" cy="27" r="6"/>
+  <circle class="dot-yellow" cx="50" cy="27" r="6"/>
+  <circle class="dot-green" cx="70" cy="27" r="6"/>
+  <text class="prompt" x="450" y="31" text-anchor="middle">prajwal@github:~$ ./build --evidence</text>
+
+  <!-- avatar block -->
+  <rect x="34" y="70" width="70" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+  <text x="69" y="115" text-anchor="middle" fill="#7dd3fc" font-family="'Courier New', monospace" font-size="24" font-weight="700">PH</text>
+
+  <text class="role" x="126" y="86">SYSTEMS-MINDED BUILDER</text>
+  <text class="name" x="126" y="118">Prajwal Hulle<tspan class="cursor">|</tspan>
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </text>
+  <text class="tag" x="126" y="145">Diploma in Computer Technology, Government Polytechnic Solapur</text>
+
+  <!-- working set -->
+  <text class="label" x="34" y="180">WORKING SET</text>
+  <g font-family="'Courier New', monospace" font-size="12">
+    <rect class="chip" x="34" y="188" width="132" height="24" rx="5"/>
+    <text class="chip-text" x="100" y="204" text-anchor="middle">Problem Solving</text>
+
+    <rect class="chip" x="176" y="188" width="150" height="24" rx="5"/>
+    <text class="chip-text" x="251" y="204" text-anchor="middle">Systems Thinking</text>
+
+    <rect class="chip" x="336" y="188" width="190" height="24" rx="5"/>
+    <text class="chip-text" x="431" y="204" text-anchor="middle">First-Principles Learning</text>
+
+    <rect class="chip" x="536" y="188" width="200" height="24" rx="5"/>
+    <text class="chip-text" x="636" y="204" text-anchor="middle">Building &amp; Breaking Things</text>
+  </g>
+
+  <text class="status" x="34" y="234">● OPEN TO OPPORTUNITIES</text>
+</svg>
