@@ -33,8 +33,9 @@ shipping only what's actually been tested.
 
 ## Connect
 
-[Email](mailto:prajwalashokhulle@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prajwal-hulle-b726a5357) · [HackerRank](https://www.hackerrank.com/profile/prajwalashokhul1) · [Instagram](https://www.instagram.com/_prjwal25/)
+## Connect
 
+💼 [LinkedIn](https://www.linkedin.com/in/prajwal-hulle-b726a5357) · 🧠 [HackerRank](https://www.hackerrank.com/profile/prajwalashokhul1) · 📧 [Email](mailto:prajwalashokhulle@gmail.com) · 📸 [Instagram](https://www.instagram.com/_prjwal25/)
 ## GitHub footprint
 
 <div align="center">
