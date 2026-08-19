@@ -29,7 +29,7 @@ Currently exploring systems and development, one project at a time.
 
 ## Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/prajwal-hulle-b726a5357) · 🧠 [HackerRank](https://www.hackerrank.com/profile/prajwalashokhul1) · 📧 [Email](mailto:prajwalashokhulle@gmail.com) · 📸 [Instagram](https://www.instagram.com/_prjwal25/)
+💼 [LinkedIn](https://www.linkedin.com/in/prajwal-hulle) · 🧠 [HackerRank](https://www.hackerrank.com/profile/prajwalashokhul1) · 📧 [Email](mailto:prajwalashokhulle@gmail.com) · 📸 [Instagram](https://www.instagram.com/_prjwal25/)
 
 ## GitHub footprint
 
