@@ -24,7 +24,7 @@ Currently exploring systems and development, one project at a time.
 
 - **Learn** — try to understand why something works, not just that it does.
 - **Break** — push on the edges to see where it actually stops working.
-- **Build** — fix it properly instead  patching around the problem.
+- **Build** — fix it properly instead of patching around the problem.
 - **Ship** — put it out there, even if it's small.
 
 ## Connect
